@@ -1,16 +1,4 @@
-# color_test
+<img width="472" alt="Screenshot 2021-03-08 at 16 14 58" src="https://user-images.githubusercontent.com/39307278/110332843-8d71ec00-8029-11eb-888b-2c748e045241.png">
+# Flutter Random Color App
+ After taping on the screen the color of the whole app will change to random color. This app does not use any additional packages to achieve this.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
